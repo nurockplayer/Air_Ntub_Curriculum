@@ -1,1 +1,1 @@
-![alt text](hhttps://i.imgur.com/AquGbuQ.jpg)
+![alt 課表](https://i.imgur.com/AquGbuQ.jpg)
