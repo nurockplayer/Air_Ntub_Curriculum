@@ -6,7 +6,7 @@
 
 歡迎大家 Fork 之後發 Pull Request 
 
-各班`幹部` 若需要 Github or markdown 的教學
+各班幹部若需要 Github or markdown 的教學
 
 可以聯絡我 `nurockplayer@gmail.com`
 
