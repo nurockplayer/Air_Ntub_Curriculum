@@ -10,5 +10,5 @@
 
 可以聯絡我 `nurockplayer@gmail.com`
 
-校方教職員湊滿人數從以下連結可以找到更專業的業界知名講師願意免費教學：
+校方教職員湊滿人數從以下連結可以找到更專業的業界知名講師願意免費教學：<br>
 https://kaochenlong.com/2017/12/12/use-github-for-homework/
